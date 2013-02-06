@@ -1,9 +1,6 @@
 package tn.edu.esprit.firstProject.services;
 
 public class SeifClass {
+	public int age;
 	
-	public static void main(String[] args) {
-		
-	}
-
 }
